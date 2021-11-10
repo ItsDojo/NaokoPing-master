@@ -1,5 +1,5 @@
 {
-  "name": "@naoko/NaokoPing",
+  "name": "@naoko.io/NaokoPing",
   "version": "1.2.0",
   "description": "A small package for Naoko.io/bot",
   "main": "index.js",
