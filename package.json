@@ -1,6 +1,6 @@
 {
   "name": "@itsdojo/naoko-ping",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "description": "A small package for Naoko.io/bot",
   "main": "index.js",
   "scripts": {
@@ -16,10 +16,10 @@
     "url": "https://github.com/ItsDojo/NaokoPing-master/issues"
   },
   "homepage": "https://github.com/ItsDojo/NaokoPing-master#readme",
-  "dependencies": {
-    "node-fetch": "^3.1.0"
-  },
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "ping": "^0.4.1"
   }
 }
