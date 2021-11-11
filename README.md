@@ -13,8 +13,8 @@ var pinger = async function(){
     }catch(e){
         console.log(e);
     }
-    pinger();
  };
+ pinger();
 ```
 
 ## Option PingOnly
