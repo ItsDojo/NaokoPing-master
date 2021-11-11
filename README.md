@@ -5,7 +5,7 @@
 
 var n = require('itsdojo/naoko-ping');
 
-var test = async function(){
+var pinger = async function(){
     try{
         var host    = 'projectsuki.com';
         var res     = await n.ping(host);
@@ -13,7 +13,8 @@ var test = async function(){
     }catch(e){
         console.log(e);
     }
-};
+    pinger();
+ };
 ```
 
 ## Option PingOnly
