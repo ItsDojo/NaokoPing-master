@@ -1,1 +1,1 @@
-module.exports = require('./lib/qiao-ping.js');
+module.exports = require('./lib/Naoko-ping.js');
