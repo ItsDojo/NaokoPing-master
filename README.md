@@ -3,7 +3,7 @@
 ```javascript
 'use strict';
 
-var n = require('itsdojo/naoko-ping');
+var n = require('@itsdojo/naoko-ping');
 
 var pinger = async function(){
     try{
